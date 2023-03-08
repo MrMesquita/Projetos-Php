@@ -1,0 +1,8 @@
+Projeto criado por mim nos primeiros estudos de PHP.
+Ainda não está responsivo. Fiz um html+css simplório, apenas para treinar meu php, por isso, nas próximas versões pretendo:
+1 - Tornar site responsivo, além de melhorar a estética como um todo;
+2 - Adicionar meio para que a calculadora consiga dividir números decimais abaixo de 0;
+3 - Achar meios para a calculadora ficar semelhante a do windows por exemplo, de modo que o usuário selecione os números apenas clicando em inputs, 
+diferente da versão atual, onde é necessário digitar os números.
+Tendo em vista que estou em foco nos estudos de PHP, os próximos projetos terá como objetivo treinar principalmente está linguagem, porém, não elimina a possibilidade 
+de projetos utilizando o Javascript em auxílio.
